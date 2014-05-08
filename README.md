@@ -1,4 +1,0 @@
-ZuckSublimeText
-===============
-
-My Sublime Text
