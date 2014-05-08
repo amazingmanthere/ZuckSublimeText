@@ -1,0 +1,22 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"Emmet",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Flatland",
+		"Theme - Nexus",
+		"Theme - Soda",
+		"Themr"
+	],
+	"startup_sec": 0.1447919,
+	"syntax":
+	{
+		"Markdown": 14,
+		"Python": 25
+	},
+	"time": 1399554858
+}

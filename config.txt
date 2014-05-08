@@ -1,0 +1,5 @@
+"version": "Sublime Text Build 3059 x64",
+"theme": ["Flatland", "Nexus", "Soda"],
+"color_scheme": "Monokai Extended",
+"font_face": "YaHei Consolas Hybrid",
+"font_size": 11
