@@ -1,6 +1,0 @@
-{
-    "cmd": ["C:\\python27\\python.exe", "-u", "$file"],
-    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-    "selector": "source.python",
-    "encoding": "cp936" //解决sublime控制台无法显示python中文问题
-}  
