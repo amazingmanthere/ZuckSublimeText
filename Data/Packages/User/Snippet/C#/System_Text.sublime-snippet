@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[System.Text]]></content>
+    <tabTrigger>S.T</tabTrigger>
+    <scope>source.cs</scope>
+    <description>System.Text</description>
+</snippet>

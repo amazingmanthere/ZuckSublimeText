@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[static ]]></content>
+    <tabTrigger>st</tabTrigger>
+    <scope>source.cs</scope>
+    <description>static</description>
+</snippet>

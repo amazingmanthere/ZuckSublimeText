@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[System.Linq]]></content>
+    <tabTrigger>S.L</tabTrigger>
+    <scope>source.cs</scope>
+    <description>System.Linq</description>
+</snippet>

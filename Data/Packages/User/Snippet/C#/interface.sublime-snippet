@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[interface ${1:IName}
+{
+	$0
+}]]></content>
+    <tabTrigger>interface</tabTrigger>
+    <scope>source.cs</scope>
+    <description>interface</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[System.Net]]></content>
+    <tabTrigger>S.N</tabTrigger>
+    <scope>source.cs</scope>
+    <description>System.Net</description>
+</snippet>

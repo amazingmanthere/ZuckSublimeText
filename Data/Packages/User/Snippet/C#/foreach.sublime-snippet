@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[foreach (var item in $1)
+{
+	$0
+}]]></content>
+    <tabTrigger>fore</tabTrigger>
+    <scope>source.cs</scope>
+    <description>foreach</description>
+</snippet>

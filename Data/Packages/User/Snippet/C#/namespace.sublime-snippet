@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[namespace ]]></content>
+    <tabTrigger>na</tabTrigger>
+    <scope>source.cs</scope>
+    <description>namespace</description>
+</snippet>

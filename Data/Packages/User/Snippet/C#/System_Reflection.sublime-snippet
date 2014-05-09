@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[System.Reflection]]></content>
+    <tabTrigger>S.R</tabTrigger>
+    <scope>source.cs</scope>
+    <description>System.Reflection</description>
+</snippet>

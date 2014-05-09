@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[System.Collections.Generic]]></content>
+    <tabTrigger>S.C.G</tabTrigger>
+    <scope>source.cs</scope>
+    <description>System.Collections.Generic</description>
+</snippet>

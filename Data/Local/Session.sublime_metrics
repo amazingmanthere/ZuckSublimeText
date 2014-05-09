@@ -12,9 +12,11 @@
 		"Theme - Soda",
 		"Themr"
 	],
-	"startup_sec": 0.1447919,
+	"startup_sec": 0.2181087,
 	"syntax":
 	{
+		"C#": 2,
+		"JSON": 5,
 		"Markdown": 14,
 		"Python": 25
 	},
