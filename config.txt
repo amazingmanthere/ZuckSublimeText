@@ -4,4 +4,3 @@
 "font_face": "YaHei Consolas Hybrid",
 "font_size": 11,
 "snippet_path": "\ZuckSublimeText\Data\Packages\User"
-"runcsharp_path": "C:\Windows\Microsoft.NET\Framework\v4.0.30319"

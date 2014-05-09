@@ -12,12 +12,14 @@
 		"Theme - Soda",
 		"Themr"
 	],
-	"startup_sec": 0.2181087,
+	"startup_sec": 0.2439375,
 	"syntax":
 	{
-		"C#": 2,
-		"JSON": 5,
+		"C#": 3,
+		"JSON": 8,
 		"Markdown": 14,
+		"Objective-C++": 2,
+		"Plain text": 1,
 		"Python": 25
 	},
 	"time": 1399554858

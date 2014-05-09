@@ -1,7 +1,13 @@
 {
-     //"cmd": ["csc", "$file"],	// just compile
-     "cmd": ["RunCSharp.bat", "$file"],	// Compile and run
-     "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
-     "selector": "source.cs",
-     "encoding": "cp936"
-}
+	"cmd": ["csc", "$file"],	// just compile
+	//"cmd": ["RunCSharp.bat", "$file"],	// Compile and run
+	"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+	"selector": "source.cs",
+	"encoding": "cp936",
+	"variants":
+	[{
+		"name": "Run",
+     	"working_dir": "${file_path}",
+     	"cmd": ["${file_base_name}.exe"]
+ 	}]
+ }
