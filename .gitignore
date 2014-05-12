@@ -8,6 +8,6 @@
 # 忽略 Package Control.cache 目录下的所有文件
 Data/Packages/User/Package Control.cache
 # 忽略 /Data/Local 目录下的所有文件
-/Data/Local/
+Data/Local/
 # 会忽略 doc/notes.txt 但不包括 doc/server/arch.txt
 # doc/*.txt

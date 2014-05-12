@@ -1,5 +1,5 @@
 [
 	//-------------------------------my custom settings-------------------------------
 	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
-	 {"keys": ["ctrl+e", "d"], "command": "reindent" , "args": {"single_line": false}}
+	{"keys": ["ctrl+e", "d"], "command": "reindent" , "args": {"single_line": false}}
 ]
