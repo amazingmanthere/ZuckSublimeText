@@ -1,10 +1,10 @@
 {
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
 	"font_face": "YaHei Consolas Hybrid",
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Flatland Dark.sublime-theme"
+	"theme": "Centurion.sublime-theme"
 }

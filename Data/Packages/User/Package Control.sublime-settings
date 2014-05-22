@@ -2,14 +2,22 @@
 	"installed_packages":
 	[
 		"Clipboard Manager",
+		"ColorPicker",
 		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
 		"Emmet",
+		"FileDiffs",
+		"Git",
 		"Markdown Preview",
 		"Monokai Extended",
 		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Centurion",
 		"Theme - Flatland",
 		"Theme - Nexus",
 		"Theme - Soda",
+		"Theme - Spacegray",
 		"Themr"
 	]
 }
